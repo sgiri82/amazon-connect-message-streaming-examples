@@ -7,7 +7,7 @@ import * as cdk from '@aws-cdk/core';
 import { ChatMessageStreamingExamplesStack } from '../lib/chat-message-streaming-examples-stack';
 
 const app = new cdk.App();
-new ChatMessageStreamingExamplesStack(app, 'EXL18558748234ChatMessageStreamingExamplesStack', {
+new ChatMessageStreamingExamplesStack(app, '+18556421845ChatMessageStreamingExamplesStack', {
   /* If you don't specify 'env', this stack will be environment-agnostic.
    * Account/Region-dependent features and context lookups will not work,
    * but a single synthesized template can be deployed anywhere. */
